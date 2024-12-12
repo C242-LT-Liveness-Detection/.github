@@ -1,4 +1,4 @@
-# Bangkit Capstone Project Company Track | Braincore
+# Bangkit Capstone Project Company Track
 
 ## 🖼️ **Screenshots**
 
@@ -12,7 +12,7 @@
 
 ## 📝About Project
 #### **LiveVote: Real-Time Liveness Detection for Secure Digital Polling**
-We are developing a mobile-based application that enables users to create and participate in digital polling events with a liveness detection for security.
+In collaboration with Braincore, We are developing a mobile-based application that allows users to create and participate in digital polling events with liveness detection for security. are developing a mobile-based application that enables users to create and participate in digital polling events with a liveness detection for security.
 
 ## 👥Team Profile
 #### Team ID : C242-LT02
@@ -31,10 +31,10 @@ We are developing a mobile-based application that enables users to create and pa
 - Cloud Computing Team: Designed and implemented a cloud-based voting and event management system utilizing Google Cloud's Compute Engine as the core backend infrastructure.
 - Mobile Developer Team: Deployment of TensorFlow lite and creation of both a user and an admin app. The application has a real-time connection using Firebase and a mechanism to a data buffer in case an internet connection is unavailable.
 
-## Project Overview
+## 💻Project Overview
 The Liveness Detection System for Secure Online Voting aims to address security vulnerabilities, inefficiencies, and a lack of trust in online voting platforms by introducing LiveVote, a biometric-based solution to ensure vote integrity. The system employs real-time liveness detection to prevent spoofing and unauthorized access, enhancing trust and transparency in the voting process.
 
-## Project Background
+## 🧑‍💻Project Background
 LiveVote addresses the challenge of ensuring secure and authentic participation in online voting by incorporating real-time liveness detection to prevent bot activity and fraudulent voting. For security, voters must complete a liveness detection check before casting their vote, verifying that they are human.
 
 ## Further Information
