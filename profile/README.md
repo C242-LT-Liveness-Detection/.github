@@ -1,5 +1,7 @@
 # Bangkit Capstone Project Company Track
+### **LiveVote: Real-Time Liveness Detection for Secure Digital Polling**
 
+---
 ## 🖼️ **Screenshots**
 
 <p align="center">
@@ -11,7 +13,6 @@
 
 
 ## 📝About Project
-#### **LiveVote: Real-Time Liveness Detection for Secure Digital Polling**
 In collaboration with Braincore, We are developing a mobile-based application that allows users to create and participate in digital polling events with liveness detection for security. are developing a mobile-based application that enables users to create and participate in digital polling events with a liveness detection for security.
 
 ## 👥Team Profile
