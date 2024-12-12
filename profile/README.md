@@ -27,11 +27,10 @@ LiveVote addresses the challenge of ensuring secure and authentic participation 
 #### 🖼️ **Screenshots**
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1C8Xdg7fI2gys_hVWZK9eJyrZGF8LMpLz" alt="Welcome Page" width="185"/>
-  <img src="https://drive.google.com/uc?id=1n8ogrHu42VGgRcjY5Qkof-g-2-sGnDQU" alt="Register Page" width="185"/>
-  <img src="https://drive.google.com/uc?id=1yqqdS3deCbiAl7BVsRx1qIEMt3-zEusf" alt="Login Page" width="185"/>
-  <img src="https://drive.google.com/uc?id=1d96ByH8JNACFcE04DlzbzBdXKBjjqa2a" alt="Home Page" width="185"/>
-  <img src="https://drive.google.com/uc?id=15cD14aCOtythwMHzYsPu79kDWaN-ZkqN" alt="Liveness Detection" width="185"/>
+  <img src="https://drive.google.com/uc?id=1C8Xdg7fI2gys_hVWZK9eJyrZGF8LMpLz" alt="Welcome Page" width="200"/>
+  <img src="https://drive.google.com/uc?id=1yqqdS3deCbiAl7BVsRx1qIEMt3-zEusf" alt="Login Page" width="200"/>
+  <img src="https://drive.google.com/uc?id=1d96ByH8JNACFcE04DlzbzBdXKBjjqa2a" alt="Home Page" width="200"/>
+  <img src="https://drive.google.com/uc?id=15cD14aCOtythwMHzYsPu79kDWaN-ZkqN" alt="Liveness Detection" width="200"/>
 </p>
 
 Here are some screenshots of our application, showcasing key features including user registration and authentication (sign-up and login), the main interface, and the core functionality of liveness detection.
